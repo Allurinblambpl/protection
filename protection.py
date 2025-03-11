@@ -3,6 +3,9 @@ from discord.ext import commands
 import datetime
 import re
 from collections import defaultdict
+import os
+
+TOKEN = os.getenv("TOKEN")
 
 
 LOG_CHANNEL_ID = 1339590409021685802  
