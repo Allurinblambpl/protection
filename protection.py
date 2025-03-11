@@ -4,7 +4,7 @@ import datetime
 import re
 from collections import defaultdict
 
-TOKEN = "MTM0OTAzNzQ3ODgyNDM4MjQ3NA.GcoQUh.1rNvdAvMi2TDkUpMLMt1bBd3Wn7covUAmZwkGU"
+
 LOG_CHANNEL_ID = 1339590409021685802  
 
 intents = discord.Intents.default()
